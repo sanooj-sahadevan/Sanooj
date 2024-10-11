@@ -1,31 +1,30 @@
 <h1 align="center">Hello, I'm Sanooj S 👋</h1>
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
-<!-- <img alt="Coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" width="400"> -->
-
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sinanptm&label=Profile%20views&color=0e75b6&style=flat" alt="sinanptm" /> 
+  <img src="https://komarev.com/ghpvc/?username=sanooj-sahadevan&label=Profile%20views&color=0e75b6&style=flat" alt="sanooj-sahadevan" /> 
 </p>
 
 - 📫 **Reach me at:** [sanusahadev007@gmail.com](mailto:sanusahadev007@gmail.com)
 
 - ⚡ **Fun fact:** I love bringing ideas to life with code and a bit of humor!
 
-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/sanooj-sahadevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanooj-1950b3290" height="40" width="50" /></a
-  <a href="https://github.com/sanooj-sahadevan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25472984/sinan" height="40" width="50" /></a>
-  <!-- <a href="https://instagram.com/si_an_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="si_an_z" height="40" width="50" /></a>
-   -->
-  <a href="https://leetcode.com/u/Sanooj_Sahadevan_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sanooj-leetcode" height="40" width="50" /></a>
+  <a href="https://www.linkedin.com/in/sanooj-sahadevan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+  <a href="https://github.com/sanooj-sahadevan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" />
+  </a>
+  <a href="https://leetcode.com/u/Sanooj_Sahadevan_123/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
+  </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="background-color:white; padding: 10px;">
 <p align="left">
-
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
   </a>
@@ -74,9 +73,6 @@
 </p>
 </div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanooj-sahadevan&show_icons=true&locale=en&layout=compact" alt="sinanptm" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanooj-sahadevan&show_icons=true&locale=en" alt="sinanptm" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanooj_Sahadevan_123&" alt="sinanptm" /></p>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sanooj_Sahadevan_123&theme=dark)](https://git.io/streak-stats) -->
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sanooj_Sahadevan_123&theme=dark" alt="GitHub Streak" /></a> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanooj-sahadevan&show_icons=true&locale=en&layout=compact" alt="sanooj-sahadevan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanooj-sahadevan&show_icons=true&locale=en" alt="sanooj-sahadevan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanooj-sahadevan&" alt="sanooj-s=ahadevan" /></p>
