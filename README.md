@@ -77,6 +77,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanooj-sahadevan&show_icons=true&locale=en&layout=compact" alt="sinanptm" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanooj-sahadevan&show_icons=true&locale=en" alt="sinanptm" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinanptm&" alt="sinanptm" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sanooj_Sahadevan_123&theme=dark)](https://git.io/streak-stats) -->
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sanooj_Sahadevan_123&theme=dark" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Sanooj_Sahadevan_123&theme=dark" alt="sanooj" /></p>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sanooj_Sahadevan_123&theme=dark)](https://git.io/streak-stats) -->
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sanooj_Sahadevan_123&theme=dark" alt="GitHub Streak" /></a> -->
